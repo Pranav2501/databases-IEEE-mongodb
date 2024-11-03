@@ -5,7 +5,7 @@ This project is a collection of Node.js scripts for analyzing and manipulating a
 ### Prerequisites
 - Docker installed for running MongoDB in a container
 - Node.js installed for executing scripts
-- MongoDB Compass for data visualization (optional)
+- MongoDB Compass 
 - MongoDB Atlas for cloud-based database setup (optional)
 
 ### Setup Instructions
